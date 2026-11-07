@@ -16,6 +16,10 @@ Applications. After that, Pigeon checks for new versions once a day and offers t
 - A Mac with Apple silicon, on macOS 15 or later
 - A Soulseek account: Pigeon registers a new name the first time it logs in
 
+## Support Pigeon
+
+Pigeon is free. If it's useful to you, you can support it on [Ko-fi](https://ko-fi.com/lSANCHOl).
+
 ## Questions and problems
 
 [Open an issue](https://github.com/lSANCHOl/pigeon/issues).
